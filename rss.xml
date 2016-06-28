@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Morgannis]]></title>
+        <description><![CDATA[Morgannis]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 28 Jun 2016 01:29:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hello, world!]]></title>
+            <description><![CDATA[<article><h1>Hello, world!</h1><p>My name is Morgannis Graham. I am a PhD student at McGill University in the field of digital preservation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/dede68adb689ef34bdd8e38afe14d50c/croprotate.png?cropheight=468&cropwidth=703&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F7582899a-6c80-460e-a887-42df63c7d999.png&x=0&y=1"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7582899a-6c80-460e-a887-42df63c7d999.png</link>
+            <guid isPermaLink="false">93059fa8-241d-4048-81ab-22b2d795ccde</guid>
+            <pubDate>Tue, 28 Jun 2016 01:28:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
