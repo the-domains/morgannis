@@ -1,14 +1,14 @@
-layout_spectrum: 0.32684686011634767
-typography_spectrum: 0.2205892950296402
+layout_spectrum: 0.4919288889504969
+typography_spectrum: 0.5091296157334
 color:
-  brandStrength: 0.16634883312508464
-  lightness: 0.09983944753184915
-  saturation: 0.12953629670664668
-  rhythmicContrast: 0.4869147769641131
+  brandStrength: 0.6546864898409694
+  lightness: 0.9906183772254735
+  saturation: 0.9837805244605988
+  rhythmicContrast: 0.824257331667468
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#B9121B'
+    - '#4C1B1B'
+    - '#F6E497'
+    - '#FCFAE1'
+    - '#BD8D46'
 name: Morgannis
