@@ -4,14 +4,14 @@
         <description><![CDATA[Morgannis]]></description>
         <link>https://thegrid.ai/morgannis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 28 Jun 2016 02:29:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2016 02:37:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/morgannis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello, world!]]></title>
-            <description><![CDATA[<article><h1>Hello, world!</h1><p>My name is Morgannis Graham. I am a PhD student at McGill University in the field of digital preservation.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1837862f-5a48-435f-a7cb-a5437820d586.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Hello, world!</h1><p>My name is Morgannis Graham. I am a PhD student at McGill University in the field of digital preservation.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9cd7d499fd32bca60c6febb5989ea5a0/croprotate.jpg?cropheight=1850&cropwidth=3200&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9e668f1c-16c8-4645-add2-afb7d819d230.jpg&x=0&y=0"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7582899a-6c80-460e-a887-42df63c7d999.png</link>
             <guid isPermaLink="false">93059fa8-241d-4048-81ab-22b2d795ccde</guid>
-            <pubDate>Tue, 28 Jun 2016 02:29:44 GMT</pubDate>
+            <pubDate>Tue, 28 Jun 2016 02:37:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
