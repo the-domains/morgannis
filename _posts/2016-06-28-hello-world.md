@@ -2,8 +2,8 @@
 description: >-
   My name is Morgannis Graham. I am a PhD student at McGill University in the
   field of digital preservation.
-dateModified: '2016-06-28T02:36:11.793Z'
-datePublished: '2016-06-28T02:37:22.625Z'
+dateModified: '2016-06-28T02:41:36.027Z'
+datePublished: '2016-06-28T02:41:54.546Z'
 title: 'Hello, world!'
 author:
   '0':
@@ -20,7 +20,7 @@ inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9e668f1c-16c8-4645-add2-afb7d819d230.jpg)
+![](https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9cd7d499fd32bca60c6febb5989ea5a0/croprotate.jpg?cropheight=1850&cropwidth=3200&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F9e668f1c-16c8-4645-add2-afb7d819d230.jpg&x=0&y=0)
 
 # Hello, world!
 
