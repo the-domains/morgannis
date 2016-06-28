@@ -2,8 +2,8 @@
 description: >-
   My name is Morgannis Graham. I am a PhD student at McGill University in the
   field of digital preservation.
-dateModified: '2016-06-28T02:41:36.027Z'
-datePublished: '2016-06-28T02:41:54.546Z'
+dateModified: '2016-06-28T02:42:17.279Z'
+datePublished: '2016-06-28T02:42:19.859Z'
 title: 'Hello, world!'
 author:
   '0':
@@ -28,4 +28,4 @@ My name is Morgannis Graham. I am a PhD student at McGill University in the fiel
 
 This website will play host to information about me, my musings, and links that make me go hmmmm.
 
-> "What are you preparing? You're always preparing! Just go!" -Spaceballs
+> What are you preparing? You're always preparing! Just go! (Spaceballs)
